@@ -22,5 +22,10 @@ namespace Medi_Soft
         {
             this.Dispose();
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
